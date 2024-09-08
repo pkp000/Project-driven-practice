@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 82e5bdb1e17112a4f8a74fb7bdc892ed
+timeCreated: 1703475729
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: roles_0
+    21300002: roles_1
+    21300004: roles_2
+    21300006: roles_3
+    21300008: roles_4
+    21300010: roles_5
+    21300012: roles_6
+    21300014: roles_7
+    21300016: roles_8
+    21300018: roles_9
+    21300020: roles_10
+    21300022: roles_11
+    21300024: roles_12
+    21300026: roles_13
+    21300028: roles_14
+    21300030: roles_15
+    21300032: roles_16
+    21300034: roles_17
+    21300036: roles_18
+    21300038: roles_19
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482.4
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 482.4
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 482.4
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 482.4
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362.4
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 362.4
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 362.4
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 362.4
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242.4
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 242.4
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 242.4
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 242.4
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 138
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 12, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 122
+        width: 138
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 10, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 122
+        width: 138
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 12, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 122.4
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.4000015
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2.4000015
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_18
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2.4000015
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roles_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2.4000015
+        width: 137.5
+        height: 120.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
